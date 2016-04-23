@@ -1,6 +1,6 @@
 
 # Distance-Calculator
-It calculates distance between two points either using Manhatten Distance or Euclidean Distance
+It calculates distance between two points either using Manhatten Distance or Euclidean Distance py using python
 
 #What is Euclidean Distance?
 In mathematics, the Euclidean distance or Euclidean metric is the "ordinary" (i.e. straight-line) distance between 
