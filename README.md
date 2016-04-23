@@ -10,7 +10,7 @@ Euclidean norm is the L2 norm or L2 distance.
 
 formula: dist((x, y), (a, b)) = √(x - a)² + (y - b)²
 
-#What is Manhatten Distance?
+#What is Manhattan Distance?
 The distance between two points in a grid based on a strictly horizontal and/or vertical path (that is, along the grid lines), 
 as opposed to the diagonal or "as the crow flies" distance. The Manhattan distance is the simple sum of the horizontal and 
 vertical components, whereas the diagonal distance might be computed by applying the Pythagorean theorem.
